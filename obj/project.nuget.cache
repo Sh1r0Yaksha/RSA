@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mHS3Ei7bfhZpgXkPZfls6QgPCnd0EUkYDoZokOiK5VZk1Oxw5MlaqXvmZny4MZtxkmP/WQR2JK88P86zFT0VRQ==",
+  "success": true,
+  "projectFilePath": "/home/shir0yaksha/Projects/C#/RSA/RSA.csproj",
+  "expectedPackageFiles": [
+    "/home/shir0yaksha/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

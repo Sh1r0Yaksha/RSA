@@ -1,0 +1,15 @@
+/home/shir0yaksha/Projects/C#/RSA/bin/Debug/net7.0/RSA
+/home/shir0yaksha/Projects/C#/RSA/bin/Debug/net7.0/RSA.deps.json
+/home/shir0yaksha/Projects/C#/RSA/bin/Debug/net7.0/RSA.runtimeconfig.json
+/home/shir0yaksha/Projects/C#/RSA/bin/Debug/net7.0/RSA.dll
+/home/shir0yaksha/Projects/C#/RSA/bin/Debug/net7.0/RSA.pdb
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.csproj.AssemblyReference.cache
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.GeneratedMSBuildEditorConfig.editorconfig
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.AssemblyInfoInputs.cache
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.AssemblyInfo.cs
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.csproj.CoreCompileInputs.cache
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.dll
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/refint/RSA.dll
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.pdb
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/RSA.genruntimeconfig.cache
+/home/shir0yaksha/Projects/C#/RSA/obj/Debug/net7.0/ref/RSA.dll
